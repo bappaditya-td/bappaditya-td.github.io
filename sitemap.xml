@@ -454,12 +454,7 @@
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
 </url>
-<url>
-      <loc>https://www.podbean.com/media/player/3mv5b-e72761?from=usersite&vjs=1&skin=1&fonts=Helvetica</loc>
-      <lastmod>2005-01-01</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-</url>
+
 <url>
       <loc>https://www.pragmaticinstitute.com/wp-content/uploads/2020/08/Pragmatic_Framework_Defintitions_1812.2.pdf</loc>
       <lastmod>2005-01-01</lastmod>
@@ -670,12 +665,7 @@
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
 </url>
-<url>
-      <loc>https://drive.google.com/uc?export=download&id=1_zPBWk5VeNawq7uqSKmIcPnHtCsYEihJ</loc>
-      <lastmod>2005-01-01</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-</url>
+
 <url>
       <loc>https://www.pragmaticinstitute.com/corporate/certifications/</loc>
       <lastmod>2005-01-01</lastmod>
@@ -833,7 +823,7 @@
       <priority>0.5</priority>
 </url>
 <url>
-      <loc>https://www.pragmaticinstitute.com/resources/articles/data/3-common-pitfalls-when-youre-getting-started-with-data/'</loc>
+      <loc>https://www.pragmaticinstitute.com/resources/articles/data/3-common-pitfalls-when-youre-getting-started-with-data/</loc>
       <lastmod>2005-01-01</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
